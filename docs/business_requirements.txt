@@ -1,0 +1,37 @@
+# E-Commerce Analytics Project
+
+## Objective
+
+Analyze e-commerce transaction data to understand sales performance, customer behavior, product performance, and marketing effectiveness.
+
+## Business Questions
+
+### Sales
+
+1. What is total revenue?
+2. What is monthly revenue trend?
+3. Which categories generate the most revenue?
+
+### Customers
+
+1. Who are the top customers?
+2. Which customer segments are most valuable?
+
+### Products
+
+1. Which products generate the most profit?
+2. Which products have the highest sales?
+
+### Marketing
+
+1. Which campaigns perform best?
+2. Which traffic sources generate the most revenue?
+
+## KPIs
+
+* Revenue
+* Profit
+* Profit Margin
+* Total Orders
+* Average Order Value
+* Customer Count
